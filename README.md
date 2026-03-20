@@ -35,14 +35,70 @@ Worked across 50+ enterprise environments, dealing with real systems, real const
 ## Projects
 
 ### [HackQuest Academy](https://hackquest-academy.base44.app)
-Gamified cybersecurity learning platform built for people who want hands-on progress, not static slides. Mobile-first, XP-based, and designed to make learning feel like momentum.
+Built a gamified offensive security learning platform in ~3 days, designed to make hands-on cybersecurity practice accessible directly from a mobile device and browser.
+
+The project started from a simple question born out of repeated downtime away from a computer: can offensive security be practiced meaningfully from a phone? HackQuest Academy answers that by turning training into an interactive, game-like product instead of a static lesson library.
+
+Key capabilities:
+- Structured learning paths with progressive difficulty
+- Interactive challenges, quizzes, and CTF-style missions
+- Simulated terminal experience directly in the browser
+- Gamification system with XP, levels, streaks, and skill trees
+- Leaderboards and public user profiles
+- Completion certificates for learning tracks
+- Fully mobile-first design with no installation required
+- AI-assisted content generation and AI Tutor support
+- Feedback systems, issue reporting, and an internal AIFixLog improvement loop
+- Dynamic curriculum architecture for extending tracks without structural rewrites
+
+The project reflects rapid prototyping, product thinking, and using AI to accelerate both development and content creation.
 
 ### [MacMountSMB](https://github.com/PolakiniO/MacMountSMB)
-A practical fix for a real macOS problem: SMB shares dropping after sleep, VPN changes, or Wi-Fi disconnects. Built to quietly keep workflows alive instead of forcing manual reconnects.
+Built a lightweight macOS utility that automatically restores SMB mounts, reducing disruptions caused by sleep, network changes, and VPN reconnects.
+
+What began as a personal workaround evolved into a more polished tool focused not just on reconnecting shares, but on making installation, day-to-day use, troubleshooting, and clean removal practical for real users.
+
+Key capabilities:
+- Automatic SMB reconnection with smart connectivity checks
+- Interactive and flag-based installation flows
+- Native macOS LaunchAgent integration
+- Finder and Keychain usage for secure credential handling
+- Runs fully in user space without sudo or system modifications
+- Clean uninstall with no leftover artifacts
+- Logging and debugging support for transparency and troubleshooting
+
+The project highlights the shift from a script that works on one machine to a tool others can install, trust, and remove with confidence.
 
 ### [WTouch](https://github.com/PolakiniO/WTouch)
-A touch-driven utility for faster system interaction and lightweight automation.
-Built to reduce friction in everyday workflows.
+Built a lightweight native Windows alternative to the Linux `touch` command, eliminating the need to switch to WSL for simple file creation and timestamp operations.
+
+The tool is primarily implemented in C++ with the Win32 API, with an emphasis on performance, full Unicode support, precise timestamp handling, and a standalone user experience without external dependencies.
+
+Key capabilities:
+- Create new files or update timestamps on existing ones
+- Fine-grained control over access and modification times
+- Copy timestamps from reference files
+- Support ISO and POSIX-style timestamp formats
+- Work with files, directories, and Windows wildcards
+- Fully standalone operation with no external dependencies
+- Additional implementations in C, Python, and Bash for portability and simplicity
+
+The development process also leveraged OpenAI Codex, requiring careful prompt engineering and precise requirement definition while building in a low-level language.
+
+### [CyberFolio](https://polakinio.com/)
+Built an interactive portfolio website that simulates a full operating system environment, creating a unique and immersive way to explore professional experience and projects.
+
+CyberFolio combines a graphical desktop interface with a command-line experience, allowing users to navigate the portfolio in multiple ways, similar to a real OS.
+
+Key capabilities:
+- Desktop-like environment with dynamic taskbar and draggable windows
+- Matrix-inspired background for a cyber-themed experience
+- Fully interactive GUI with resizable application windows
+- Built-in terminal for command-line navigation
+- Hybrid interaction model combining CLI and GUI
+- Included applications for About Me, Experience, Skills, Projects, Education, Certifications, Military Service, Contact Me, and an embedded web browser
+
+The project focuses on creating a memorable user experience while showcasing technical skills, blending frontend development with system-inspired design. It demonstrates how a portfolio can go beyond static pages and become an interactive product.
 
 ---
 
