@@ -1,3 +1,12 @@
+```text
+    ____        __      __   _       _ ____ 
+   / __ \____  / /___ _/ /__(_)___  (_) __ \
+  / /_/ / __ \/ / __ `/ //_/ / __ \/ / / / /
+ / ____/ /_/ / / /_/ / ,< / / / / / / /_/ / 
+/_/    \____/_/\__,_/_/|_/_/_/ /_/_/\____/  
+                                            
+```
+
 # Yuval Polak
 ### Cybersecurity Engineer / Technical Lead
 ⚡ Building security tools and breaking real systems
