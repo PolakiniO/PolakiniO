@@ -1,15 +1,12 @@
-```text
     ____        __      __   _       _ ____ 
    / __ \____  / /___ _/ /__(_)___  (_) __ \
   / /_/ / __ \/ / __ `/ //_/ / __ \/ / / / /
  / ____/ /_/ / / /_/ / ,< / / / / / / /_/ / 
 /_/    \____/_/\__,_/_/|_/_/_/ /_/_/\____/  
-                                            
-```
 
 # Yuval Polak
 ### Cybersecurity Engineer / Technical Lead
-⚡ Building security tools and breaking real systems
+⚡ Building security tools, engineering systems, and governing how AI writes code
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PolakiniO&color=blue&style=flat-square)
 
@@ -35,9 +32,9 @@ Worked across 50+ enterprise environments, dealing with real systems, real const
 ## Projects
 
 ### [AI-Engineering-Playbook](https://github.com/PolakiniO/AI-Engineering-Playbook)
-Built a lightweight governance framework that controls how AI coding agents (such as Codex and similar tools) interact with a codebase, turning AI-assisted development into a structured and disciplined engineering process.
+Built a governance framework that makes AI coding agents (such as Codex and similar tools) behave like disciplined senior engineers when interacting with a codebase.
 
-Instead of relying on ad-hoc prompts and inconsistent outputs, the framework introduces a reusable layer that standardizes implementation, refactoring, and code review behavior across repositories.
+Instead of ad-hoc prompts and inconsistent outputs, it introduces a reusable layer that standardizes implementation, refactoring, and code review across repositories.
 
 Key capabilities:
 - Repository-level governance using AGENTS.md
@@ -49,12 +46,16 @@ Key capabilities:
 - Presentation-ready output modes for demos and documentation
 - Designed to work across AI agents, tested primarily with Codex
 
-The project reflects a shift from using AI as a helper to treating it as an engineer that operates within defined boundaries, contracts, and review standards.
+Designed as a drop-in layer that can be adopted without modifying runtime code or introducing dependencies.
+
+The project reflects a shift from using AI as a helper to treating it as an engineer operating within defined boundaries, contracts, and review standards.
+
+---
 
 ### [HackQuest Academy](https://hackquest-academy.base44.app)
 Built a gamified offensive security learning platform in ~3 days, designed to make hands-on cybersecurity practice accessible directly from a mobile device and browser.
 
-The project started from a simple question born out of repeated downtime away from a computer: can offensive security be practiced meaningfully from a phone? HackQuest Academy answers that by turning training into an interactive, game-like product instead of a static lesson library.
+The project started from a simple question: can offensive security be practiced meaningfully from a phone? HackQuest Academy answers that by turning training into an interactive, game-like experience instead of a static lesson library.
 
 Key capabilities:
 - Structured learning paths with progressive difficulty
@@ -69,6 +70,8 @@ Key capabilities:
 - Dynamic curriculum architecture for extending tracks without structural rewrites
 
 The project reflects rapid prototyping, product thinking, and using AI to accelerate both development and content creation.
+
+---
 
 ### [MacMountSMB](https://github.com/PolakiniO/MacMountSMB)
 Built a lightweight macOS utility that automatically restores SMB mounts, reducing disruptions caused by sleep, network changes, and VPN reconnects.
@@ -86,6 +89,8 @@ Key capabilities:
 
 The project highlights the shift from a script that works on one machine to a tool others can install, trust, and remove with confidence.
 
+---
+
 ### [WTouch](https://github.com/PolakiniO/WTouch)
 Built a lightweight native Windows alternative to the Linux `touch` command, eliminating the need to switch to WSL for simple file creation and timestamp operations.
 
@@ -102,6 +107,8 @@ Key capabilities:
 
 The development process also leveraged OpenAI Codex, requiring careful prompt engineering and precise requirement definition while building in a low-level language.
 
+---
+
 ### [CyberFolio](https://polakinio.com/)
 Built an interactive portfolio website that simulates a full operating system environment, creating a unique and immersive way to explore professional experience and projects.
 
@@ -115,7 +122,7 @@ Key capabilities:
 - Hybrid interaction model combining CLI and GUI
 - Included applications for About Me, Experience, Skills, Projects, Education, Certifications, Military Service, Contact Me, and an embedded web browser
 
-The project focuses on creating a memorable user experience while showcasing technical skills, blending frontend development with system-inspired design. It demonstrates how a portfolio can go beyond static pages and become an interactive product.
+The project focuses on creating a memorable user experience while showcasing technical skills, blending frontend development with system-inspired design.
 
 ---
 
@@ -162,8 +169,6 @@ The project focuses on creating a memorable user experience while showcasing tec
 - Active Directory and enterprise services
 - Endpoint and network protection
 - Hybrid and on-prem environments
-- Windows
-- macOS
 
 ### Implementation & Technical Delivery
 - Complex system integration
@@ -181,9 +186,9 @@ The project focuses on creating a memorable user experience while showcasing tec
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PolakiniO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PolakiniO&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=PolakiniO&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PolakiniO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PolakiniO&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com?user=PolakiniO&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
 
