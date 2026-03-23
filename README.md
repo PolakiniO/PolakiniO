@@ -34,6 +34,23 @@ Worked across 50+ enterprise environments, dealing with real systems, real const
 
 ## Projects
 
+### [AI-Engineering-Playbook](https://github.com/PolakiniO/AI-Engineering-Playbook)
+Built a lightweight governance framework that controls how AI coding agents (such as Codex and similar tools) interact with a codebase, turning AI-assisted development into a structured and disciplined engineering process.
+
+Instead of relying on ad-hoc prompts and inconsistent outputs, the framework introduces a reusable layer that standardizes implementation, refactoring, and code review behavior across repositories.
+
+Key capabilities:
+- Repository-level governance using AGENTS.md
+- Structured workflows via a portable playbook system
+- Reusable skill modules for consistent AI behavior
+- Enforced output structure for code reviews and implementations
+- Separation between generic governance and repo-specific logic
+- Support for multiple use cases (security workflows, backend services, data pipelines)
+- Presentation-ready output modes for demos and documentation
+- Designed to work across AI agents, tested primarily with Codex
+
+The project reflects a shift from using AI as a helper to treating it as an engineer that operates within defined boundaries, contracts, and review standards.
+
 ### [HackQuest Academy](https://hackquest-academy.base44.app)
 Built a gamified offensive security learning platform in ~3 days, designed to make hands-on cybersecurity practice accessible directly from a mobile device and browser.
 
@@ -99,23 +116,6 @@ Key capabilities:
 - Included applications for About Me, Experience, Skills, Projects, Education, Certifications, Military Service, Contact Me, and an embedded web browser
 
 The project focuses on creating a memorable user experience while showcasing technical skills, blending frontend development with system-inspired design. It demonstrates how a portfolio can go beyond static pages and become an interactive product.
-
-### [AI-Engineering-Playbook](https://github.com/PolakiniO/AI-Engineering-Playbook)
-Built a lightweight governance framework that controls how AI coding agents (such as Codex and similar tools) interact with a codebase, turning AI-assisted development into a structured and disciplined engineering process.
-
-Instead of relying on ad-hoc prompts and inconsistent outputs, the framework introduces a reusable layer that standardizes implementation, refactoring, and code review behavior across repositories.
-
-Key capabilities:
-- Repository-level governance using AGENTS.md
-- Structured workflows via a portable playbook system
-- Reusable skill modules for consistent AI behavior
-- Enforced output structure for code reviews and implementations
-- Separation between generic governance and repo-specific logic
-- Support for multiple use cases (security workflows, backend services, data pipelines)
-- Presentation-ready output modes for demos and documentation
-- Designed to work across AI agents, tested primarily with Codex
-
-The project reflects a shift from using AI as a helper to treating it as an engineer that operates within defined boundaries, contracts, and review standards.
 
 ---
 
