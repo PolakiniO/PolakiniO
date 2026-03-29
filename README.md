@@ -128,6 +128,24 @@ The project focuses on creating a memorable user experience while showcasing tec
 
 ---
 
+### [K8S Zero to Hero](https://github.com/PolakiniO/K8S-Zero-To-Hero)
+Built a hands-on Kubernetes learning repository focused on real troubleshooting, progressive labs, operational repetition, and platform/security thinking instead of passive theory.
+
+The project started as a personal knowledgebase and lab environment, then evolved into a structured public repo designed to teach Kubernetes the way it behaves in practice: through failure, debugging, verification, and repetition.
+
+Key capabilities:
+- Structured Kubernetes notes and guided learning material
+- Progressive hands-on labs across core operations, networking, and deployment scenarios
+- Capstone exercises focused on platform, security, and verification workflows
+- Troubleshooting-first learning model built around proving failures and validating fixes
+- Supporting scripts and manifests for reproducible practice
+- Security and release guardrails for keeping the repository safe to maintain publicly
+- Public-facing documentation, contribution guidance, and repo hardening for open collaboration
+
+The project reflects the same mindset I bring to security engineering: systems are understood best when you break them, observe them carefully, and explain exactly why they failed.
+
+---
+
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
