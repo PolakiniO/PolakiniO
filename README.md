@@ -219,3 +219,8 @@ The project reflects the same mindset I bring to security engineering: systems a
 - If a tool looks good but fails under load, edge cases, or bad assumptions, it is not done.
 - Understanding behavior matters more than memorizing features.
 - I like systems you can trust, scripts that earn their keep, and troubleshooting that ends with a root cause.
+
+---
+
+> <!-- last update note -->
+> **// Last updated:** 2026-03-31
