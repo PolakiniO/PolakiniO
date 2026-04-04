@@ -141,7 +141,7 @@ The development process also leveraged OpenAI Codex, requiring careful prompt en
 ---
 
 ### [CyberFolio](https://polakinio.com/)
-<img src="sources/C0164713-9656-465A-A615-92FC75894D6A.png" alt="CyberFolio Banner" width="100%" height="260" />
+<img src="sources/156CF9A0-E792-4CE5-8E63-F33CD02235D3.png" alt="CyberFolio Banner" width="100%" height="260" />
 
 Built an interactive portfolio website that simulates a full operating system environment, creating a unique and immersive way to explore professional experience and projects.
 
