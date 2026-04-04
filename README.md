@@ -55,6 +55,8 @@ Worked across 50+ enterprise environments, dealing with real systems, real const
 ## Projects
 
 ### [AI-Engineering-Playbook](https://github.com/PolakiniO/AI-Engineering-Playbook)
+![AI Engineering Banner](sources/415233F5-4EEF-43A3-B4D8-B57A7180477E.jpeg)
+
 Built a governance framework that makes AI coding agents (such as Codex and similar tools) behave like disciplined senior engineers when interacting with a codebase.
 
 Instead of ad-hoc prompts and inconsistent outputs, it introduces a reusable layer that standardizes implementation, refactoring, and code review across repositories.
@@ -76,6 +78,8 @@ The project reflects a shift from using AI as a helper to treating it as an engi
 ---
 
 ### [HackQuest Academy](https://hackquest-academy.base44.app)
+![HackQuest Academy Banner](sources/C0164713-9656-465A-A615-92FC75894D6A.png)
+
 Built a gamified offensive security learning platform in ~3 days, designed to make hands-on cybersecurity practice accessible directly from a mobile device and browser.
 
 The project started from a simple question: can offensive security be practiced meaningfully from a phone? HackQuest Academy answers that by turning training into an interactive, game-like experience instead of a static lesson library.
@@ -97,6 +101,8 @@ The project reflects rapid prototyping, product thinking, and using AI to accele
 ---
 
 ### [MacMountSMB](https://github.com/PolakiniO/MacMountSMB)
+![MacMountSMB Banner](sources/C0164713-9656-465A-A615-92FC75894D6A.png)
+
 Built a lightweight macOS utility that automatically restores SMB mounts, reducing disruptions caused by sleep, network changes, and VPN reconnects.
 
 What began as a personal workaround evolved into a more polished tool focused not just on reconnecting shares, but on making installation, day-to-day use, troubleshooting, and clean removal practical for real users.
@@ -115,6 +121,8 @@ The project highlights the shift from a script that works on one machine to a to
 ---
 
 ### [WTouch](https://github.com/PolakiniO/WTouch)
+![WTouch Banner](sources/C0164713-9656-465A-A615-92FC75894D6A.png)
+
 Built a lightweight native Windows alternative to the Linux `touch` command, eliminating the need to switch to WSL for simple file creation and timestamp operations.
 
 The tool is primarily implemented in C++ with the Win32 API, with an emphasis on performance, full Unicode support, precise timestamp handling, and a standalone user experience without external dependencies.
@@ -133,6 +141,8 @@ The development process also leveraged OpenAI Codex, requiring careful prompt en
 ---
 
 ### [CyberFolio](https://polakinio.com/)
+![CyberFolio Banner](sources/C0164713-9656-465A-A615-92FC75894D6A.png)
+
 Built an interactive portfolio website that simulates a full operating system environment, creating a unique and immersive way to explore professional experience and projects.
 
 CyberFolio combines a graphical desktop interface with a command-line experience, allowing users to navigate the portfolio in multiple ways, similar to a real OS.
@@ -150,6 +160,8 @@ The project focuses on creating a memorable user experience while showcasing tec
 ---
 
 ### [K8S Zero to Hero](https://github.com/PolakiniO/K8S-Zero-To-Hero)
+![K8S Zero to Hero Banner](sources/C0164713-9656-465A-A615-92FC75894D6A.png)
+
 Built a hands-on Kubernetes learning repository focused on real troubleshooting, progressive labs, operational repetition, and platform/security thinking instead of passive theory.
 
 The project started as a personal knowledgebase and lab environment, then evolved into a structured public repo designed to teach Kubernetes the way it behaves in practice: through failure, debugging, verification, and repetition.
@@ -168,6 +180,8 @@ The project reflects the same mindset I bring to security engineering: systems a
 ---
 
 ### [PolakiniO](https://github.com/PolakiniO/PolakiniO)
+![PolakiniO Banner](sources/C0164713-9656-465A-A615-92FC75894D6A.png)
+
 Built my GitHub profile repository as a living technical portfolio that combines personal branding, engineering credibility, and project storytelling in one public-facing hub.
 
 Instead of a minimal profile README, it is structured as a continuously maintained showcase covering professional focus, core technical stack, validated project work, and hands-on delivery mindset.
