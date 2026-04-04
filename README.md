@@ -78,7 +78,7 @@ The project reflects a shift from using AI as a helper to treating it as an engi
 ---
 
 ### [HackQuest Academy](https://hackquest-academy.base44.app)
-![HackQuest Academy Logo](sources/C0164713-9656-465A-A615-92FC75894D6A.png)
+![HackQuest Academy Logo](sources/7A0FFB7B-B181-4AD4-A66A-6F09379E0D4F.png)
 
 Built a gamified offensive security learning platform in ~3 days, designed to make hands-on cybersecurity practice accessible directly from a mobile device and browser.
 
