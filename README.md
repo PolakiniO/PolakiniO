@@ -101,7 +101,7 @@ The project reflects rapid prototyping, product thinking, and using AI to accele
 ---
 
 ### [MacMountSMB](https://github.com/PolakiniO/MacMountSMB)
-<img src="sources/C0164713-9656-465A-A615-92FC75894D6A.png" alt="MacMountSMB Banner" width="100%" height="260" />
+<img src="sources/8B643215-82F2-4DDE-8AD8-2D5DB5D8A885.png" alt="MacMountSMB Banner" width="100%" height="260" />
 
 Built a lightweight macOS utility that automatically restores SMB mounts, reducing disruptions caused by sleep, network changes, and VPN reconnects.
 
