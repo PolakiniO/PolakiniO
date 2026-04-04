@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="sources/E8105C00-F69D-49B4-A844-5F6C8BAAA63F.png" alt="PolakiniO Logo Banner" width="100%" />
+  <img src="sources/E8105C00-F69D-49B4-A844-5F6C8BAAA63F.png" alt="PolakiniO Logo Banner" width="100%" height="260" />
 </p>
 
 # Yuval Polak
