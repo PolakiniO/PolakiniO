@@ -160,7 +160,7 @@ The project focuses on creating a memorable user experience while showcasing tec
 ---
 
 ### [K8S-zero-to-hero](https://github.com/PolakiniO/K8S-Zero-To-Hero)
-<img src="sources/C0164713-9656-465A-A615-92FC75894D6A.png" alt="K8S-zero-to-hero Banner" width="100%" height="260" />
+<img src="sources/FEA7B6AC-C1FB-4A56-8E1F-DA1EB99BD6E5.png" alt="K8S-zero-to-hero Banner" width="100%" height="260" />
 
 Built a hands-on Kubernetes learning repository focused on real troubleshooting, progressive labs, operational repetition, and platform/security thinking instead of passive theory.
 
