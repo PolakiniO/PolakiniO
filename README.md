@@ -121,7 +121,7 @@ The project highlights the shift from a script that works on one machine to a to
 ---
 
 ### [WTouch](https://github.com/PolakiniO/WTouch)
-<img src="sources/C0164713-9656-465A-A615-92FC75894D6A.png" alt="WTouch Banner" width="100%" height="260" />
+<img src="sources/CF8EF120-2A06-411D-8B7B-B981FC9DC52D.png" alt="WTouch Banner" width="100%" height="260" />
 
 Built a lightweight native Windows alternative to the Linux `touch` command, eliminating the need to switch to WSL for simple file creation and timestamp operations.
 
