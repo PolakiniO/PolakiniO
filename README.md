@@ -167,6 +167,23 @@ The project reflects the same mindset I bring to security engineering: systems a
 
 ---
 
+### [PolakiniO](https://github.com/PolakiniO/PolakiniO)
+Built my GitHub profile repository as a living technical portfolio that combines personal branding, engineering credibility, and project storytelling in one public-facing hub.
+
+Instead of a minimal profile README, it is structured as a continuously maintained showcase covering professional focus, core technical stack, validated project work, and hands-on delivery mindset.
+
+Key capabilities:
+- Structured profile architecture with clear sections for About, Tech Stack, Projects, Skills, and Mindset
+- Dynamic GitHub statistics and language/activity cards for transparent public signal
+- Project documentation style focused on practical outcomes, implementation details, and engineering tradeoffs
+- Consistent writing framework for turning technical work into portfolio-ready narratives
+- Integrated visual assets and badges for fast scanning and recruiter-friendly readability
+- Living update model with timestamped maintenance and continuous refinement
+
+The repository reflects an approach to personal branding where technical communication, execution quality, and proof of work are treated as part of the engineering deliverable.
+
+---
+
 ## Skills
 
 ### Security Engineering & Architecture
