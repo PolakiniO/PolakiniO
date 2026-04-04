@@ -180,7 +180,7 @@ The project reflects the same mindset I bring to security engineering: systems a
 ---
 
 ### [PolakiniO](https://github.com/PolakiniO/PolakiniO)
-<img src="sources/C0164713-9656-465A-A615-92FC75894D6A.png" alt="PolakiniO Banner" width="100%" height="260" />
+<img src="sources/E8105C00-F69D-49B4-A844-5F6C8BAAA63F.jpeg" alt="PolakiniO Banner" width="100%" height="260" />
 
 Built my GitHub profile repository as a living technical portfolio that combines personal branding, engineering credibility, and project storytelling in one public-facing hub.
 
