@@ -1,4 +1,6 @@
-![PolakiniO Logo](sources/8D73BD27-E61F-44AC-A0E0-A8ADCC97AB13.png)
+<p align="center">
+  <img src="sources/8D73BD27-E61F-44AC-A0E0-A8ADCC97AB13.png" alt="PolakiniO Logo Banner" width="100%" />
+</p>
 
 # Yuval Polak
 ### Cybersecurity Engineer / Technical Lead
