@@ -55,7 +55,7 @@ Worked across 50+ enterprise environments, dealing with real systems, real const
 ## Projects
 
 ### [AI-Engineering-Playbook](https://github.com/PolakiniO/AI-Engineering-Playbook)
-![AI Engineering Banner](sources/415233F5-4EEF-43A3-B4D8-B57A7180477E.jpeg)
+![AI Engineering Logo](sources/415233F5-4EEF-43A3-B4D8-B57A7180477E.jpeg)
 
 Built a governance framework that makes AI coding agents (such as Codex and similar tools) behave like disciplined senior engineers when interacting with a codebase.
 
@@ -78,7 +78,7 @@ The project reflects a shift from using AI as a helper to treating it as an engi
 ---
 
 ### [HackQuest Academy](https://hackquest-academy.base44.app)
-![HackQuest Academy Banner](sources/C0164713-9656-465A-A615-92FC75894D6A.png)
+![HackQuest Academy Logo](sources/C0164713-9656-465A-A615-92FC75894D6A.png)
 
 Built a gamified offensive security learning platform in ~3 days, designed to make hands-on cybersecurity practice accessible directly from a mobile device and browser.
 
@@ -101,7 +101,7 @@ The project reflects rapid prototyping, product thinking, and using AI to accele
 ---
 
 ### [MacMountSMB](https://github.com/PolakiniO/MacMountSMB)
-![MacMountSMB Banner](sources/C0164713-9656-465A-A615-92FC75894D6A.png)
+![MacMountSMB Logo](sources/C0164713-9656-465A-A615-92FC75894D6A.png)
 
 Built a lightweight macOS utility that automatically restores SMB mounts, reducing disruptions caused by sleep, network changes, and VPN reconnects.
 
@@ -121,7 +121,7 @@ The project highlights the shift from a script that works on one machine to a to
 ---
 
 ### [WTouch](https://github.com/PolakiniO/WTouch)
-![WTouch Banner](sources/C0164713-9656-465A-A615-92FC75894D6A.png)
+![WTouch Logo](sources/C0164713-9656-465A-A615-92FC75894D6A.png)
 
 Built a lightweight native Windows alternative to the Linux `touch` command, eliminating the need to switch to WSL for simple file creation and timestamp operations.
 
@@ -141,7 +141,7 @@ The development process also leveraged OpenAI Codex, requiring careful prompt en
 ---
 
 ### [CyberFolio](https://polakinio.com/)
-![CyberFolio Banner](sources/C0164713-9656-465A-A615-92FC75894D6A.png)
+![CyberFolio Logo](sources/C0164713-9656-465A-A615-92FC75894D6A.png)
 
 Built an interactive portfolio website that simulates a full operating system environment, creating a unique and immersive way to explore professional experience and projects.
 
@@ -160,7 +160,7 @@ The project focuses on creating a memorable user experience while showcasing tec
 ---
 
 ### [K8S Zero to Hero](https://github.com/PolakiniO/K8S-Zero-To-Hero)
-![K8S Zero to Hero Banner](sources/C0164713-9656-465A-A615-92FC75894D6A.png)
+![K8S Zero to Hero Logo](sources/C0164713-9656-465A-A615-92FC75894D6A.png)
 
 Built a hands-on Kubernetes learning repository focused on real troubleshooting, progressive labs, operational repetition, and platform/security thinking instead of passive theory.
 
@@ -180,7 +180,7 @@ The project reflects the same mindset I bring to security engineering: systems a
 ---
 
 ### [PolakiniO](https://github.com/PolakiniO/PolakiniO)
-![PolakiniO Banner](sources/C0164713-9656-465A-A615-92FC75894D6A.png)
+![PolakiniO Logo](sources/C0164713-9656-465A-A615-92FC75894D6A.png)
 
 Built my GitHub profile repository as a living technical portfolio that combines personal branding, engineering credibility, and project storytelling in one public-facing hub.
 
