@@ -101,7 +101,7 @@ The project reflects rapid prototyping, product thinking, and using AI to accele
 ---
 
 ### [MacMountSMB](https://github.com/PolakiniO/MacMountSMB)
-![MacMountSMB Logo](sources/C0164713-9656-465A-A615-92FC75894D6A.png)
+<img src="sources/C0164713-9656-465A-A615-92FC75894D6A.png" alt="MacMountSMB Banner" width="100%" height="260" />
 
 Built a lightweight macOS utility that automatically restores SMB mounts, reducing disruptions caused by sleep, network changes, and VPN reconnects.
 
@@ -121,7 +121,7 @@ The project highlights the shift from a script that works on one machine to a to
 ---
 
 ### [WTouch](https://github.com/PolakiniO/WTouch)
-![WTouch Logo](sources/C0164713-9656-465A-A615-92FC75894D6A.png)
+<img src="sources/C0164713-9656-465A-A615-92FC75894D6A.png" alt="WTouch Banner" width="100%" height="260" />
 
 Built a lightweight native Windows alternative to the Linux `touch` command, eliminating the need to switch to WSL for simple file creation and timestamp operations.
 
@@ -141,7 +141,7 @@ The development process also leveraged OpenAI Codex, requiring careful prompt en
 ---
 
 ### [CyberFolio](https://polakinio.com/)
-![CyberFolio Logo](sources/C0164713-9656-465A-A615-92FC75894D6A.png)
+<img src="sources/C0164713-9656-465A-A615-92FC75894D6A.png" alt="CyberFolio Banner" width="100%" height="260" />
 
 Built an interactive portfolio website that simulates a full operating system environment, creating a unique and immersive way to explore professional experience and projects.
 
@@ -159,8 +159,8 @@ The project focuses on creating a memorable user experience while showcasing tec
 
 ---
 
-### [K8S Zero to Hero](https://github.com/PolakiniO/K8S-Zero-To-Hero)
-![K8S Zero to Hero Logo](sources/C0164713-9656-465A-A615-92FC75894D6A.png)
+### [K8S-zero-to-hero](https://github.com/PolakiniO/K8S-Zero-To-Hero)
+<img src="sources/C0164713-9656-465A-A615-92FC75894D6A.png" alt="K8S-zero-to-hero Banner" width="100%" height="260" />
 
 Built a hands-on Kubernetes learning repository focused on real troubleshooting, progressive labs, operational repetition, and platform/security thinking instead of passive theory.
 
@@ -180,7 +180,7 @@ The project reflects the same mindset I bring to security engineering: systems a
 ---
 
 ### [PolakiniO](https://github.com/PolakiniO/PolakiniO)
-![PolakiniO Logo](sources/C0164713-9656-465A-A615-92FC75894D6A.png)
+<img src="sources/C0164713-9656-465A-A615-92FC75894D6A.png" alt="PolakiniO Banner" width="100%" height="260" />
 
 Built my GitHub profile repository as a living technical portfolio that combines personal branding, engineering credibility, and project storytelling in one public-facing hub.
 
