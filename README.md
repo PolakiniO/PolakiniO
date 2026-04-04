@@ -4,13 +4,13 @@
 
 # Yuval Polak
 ### Cybersecurity Engineer / Technical Lead
-⚡ Building security tools, engineering systems, and governing how AI writes code
+**I build security tooling, harden production systems, and govern how AI behaves as an engineer in real environments.**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PolakiniO&color=blue&style=flat-square)
 
-I work on security the way it actually behaves in production: messy, interconnected, and usually one bad assumption away from breaking.
+> **Security in production is messy by default: interconnected systems, hidden dependencies, and one bad assumption away from failure.**
 
-I build, troubleshoot, harden, automate, and tear systems apart until the weak spots show up.
+I build, troubleshoot, harden, automate, and deliberately break systems until the weak spots show up.
 
 ---
 
@@ -23,7 +23,19 @@ I build, troubleshoot, harden, automate, and tear systems apart until the weak s
 - Strong bias for troubleshooting, root cause analysis, secure integration, and understanding system behavior under pressure.
 - I also build personal tools and side projects because good ideas usually start by solving annoying real problems.
 
-Worked across 50+ enterprise environments, dealing with real systems, real constraints, and real failures.
+---
+
+## Currently
+
+I’m actively working across:
+
+- **AI-assisted engineering workflows**: turning AI from a coding helper into a governed engineering participant with reviewable behavior.
+- **Security tooling and operational automation**: building practical tools that improve reliability, visibility, and day-to-day security execution.
+- **Platform/system thinking**: designing with architecture, dependencies, failure modes, and long-term maintainability in mind.
+- **Hands-on labs and applied learning systems**: building environments where people learn through troubleshooting, validation, and repetition.
+- **Research-oriented delivery**: combining technical exploration with implementation so ideas become usable systems, not just notes.
+
+This is where I create the most value: **Technical Account Management (TAM), Security Engineering, and Security Research-focused roles**.
 
 ---
 
@@ -57,6 +69,8 @@ Worked across 50+ enterprise environments, dealing with real systems, real const
 ### [AI-Engineering-Playbook](https://github.com/PolakiniO/AI-Engineering-Playbook)
 ![AI Engineering Logo](sources/415233F5-4EEF-43A3-B4D8-B57A7180477E.jpeg)
 
+**TL;DR:** Governance layer for AI coding agents so implementation, refactoring, and reviews stay consistent, enforceable, and production-usable across repositories.
+
 Built a governance framework that makes AI coding agents (such as Codex and similar tools) behave like disciplined senior engineers when interacting with a codebase.
 
 Instead of ad-hoc prompts and inconsistent outputs, it introduces a reusable layer that standardizes implementation, refactoring, and code review across repositories.
@@ -80,9 +94,11 @@ The project reflects a shift from using AI as a helper to treating it as an engi
 ### [HackQuest Academy](https://hackquest-academy.base44.app)
 ![HackQuest Academy Logo](sources/7A0FFB7B-B181-4AD4-A66A-6F09379E0D4F.png)
 
+**TL;DR:** Mobile-first offensive security training platform that turns learning into repeatable, interactive, game-like workflows.
+
 Built a gamified offensive security learning platform in ~3 days, designed to make hands-on cybersecurity practice accessible directly from a mobile device and browser.
 
-The project started from a simple question: can offensive security be practiced meaningfully from a phone? HackQuest Academy answers that by turning training into an interactive, game-like experience instead of a static lesson library.
+The project started from a simple question: can offensive security be practiced meaningfully from a phone? HackQuest Academy answers that by turning training into an interactive experience instead of a static lesson library.
 
 Key capabilities:
 - Structured learning paths with progressive difficulty
@@ -103,9 +119,11 @@ The project reflects rapid prototyping, product thinking, and using AI to accele
 ### [MacMountSMB](https://github.com/PolakiniO/MacMountSMB)
 <img src="sources/8B643215-82F2-4DDE-8AD8-2D5DB5D8A885.png" alt="MacMountSMB Banner" width="100%" height="260" />
 
+**TL;DR:** Lightweight macOS utility that restores SMB mounts automatically and reduces user friction around sleep, VPN, and network transition failures.
+
 Built a lightweight macOS utility that automatically restores SMB mounts, reducing disruptions caused by sleep, network changes, and VPN reconnects.
 
-What began as a personal workaround evolved into a more polished tool focused not just on reconnecting shares, but on making installation, day-to-day use, troubleshooting, and clean removal practical for real users.
+What began as a personal workaround evolved into a polished tool focused not only on reconnecting shares, but also on practical installation, day-to-day use, troubleshooting, and clean removal.
 
 Key capabilities:
 - Automatic SMB reconnection with smart connectivity checks
@@ -123,9 +141,11 @@ The project highlights the shift from a script that works on one machine to a to
 ### [WTouch](https://github.com/PolakiniO/WTouch)
 <img src="sources/CF8EF120-2A06-411D-8B7B-B981FC9DC52D.png" alt="WTouch Banner" width="100%" height="260" />
 
+**TL;DR:** Native Windows `touch` alternative built for speed, Unicode correctness, and precise timestamp handling without WSL or external dependencies.
+
 Built a lightweight native Windows alternative to the Linux `touch` command, eliminating the need to switch to WSL for simple file creation and timestamp operations.
 
-The tool is primarily implemented in C++ with the Win32 API, with an emphasis on performance, full Unicode support, precise timestamp handling, and a standalone user experience without external dependencies.
+The tool is primarily implemented in C++ with the Win32 API, with an emphasis on performance, full Unicode support, precise timestamp handling, and a standalone user experience.
 
 Key capabilities:
 - Create new files or update timestamps on existing ones
@@ -143,7 +163,9 @@ The development process also leveraged OpenAI Codex, requiring careful prompt en
 ### [CyberFolio](https://polakinio.com/)
 <img src="sources/156CF9A0-E792-4CE5-8E63-F33CD02235D3.png" alt="CyberFolio Banner" width="100%" height="260" />
 
-Built an interactive portfolio website that simulates a full operating system environment, creating a unique and immersive way to explore professional experience and projects.
+**TL;DR:** Interactive portfolio designed like an operating system to present technical work through both GUI and terminal-style navigation.
+
+Built an interactive portfolio website that simulates a full operating system environment, creating a unique way to explore professional experience and projects.
 
 CyberFolio combines a graphical desktop interface with a command-line experience, allowing users to navigate the portfolio in multiple ways, similar to a real OS.
 
@@ -161,6 +183,8 @@ The project focuses on creating a memorable user experience while showcasing tec
 
 ### [K8S-zero-to-hero](https://github.com/PolakiniO/K8S-Zero-To-Hero)
 <img src="sources/FEA7B6AC-C1FB-4A56-8E1F-DA1EB99BD6E5.png" alt="K8S-zero-to-hero Banner" width="100%" height="260" />
+
+**TL;DR:** Troubleshooting-first Kubernetes lab repo built around failure analysis, verification, and repeatable operational practice.
 
 Built a hands-on Kubernetes learning repository focused on real troubleshooting, progressive labs, operational repetition, and platform/security thinking instead of passive theory.
 
@@ -181,6 +205,8 @@ The project reflects the same mindset I bring to security engineering: systems a
 
 ### [PolakiniO](https://github.com/PolakiniO/PolakiniO)
 <img src="sources/E8105C00-F69D-49B4-A844-5F6C8BAAA63F.jpeg" alt="PolakiniO Banner" width="100%" height="260" />
+
+**TL;DR:** Profile repository treated as a living technical portfolio: real work, engineering context, and continuously maintained public signal.
 
 Built my GitHub profile repository as a living technical portfolio that combines personal branding, engineering credibility, and project storytelling in one public-facing hub.
 
@@ -246,6 +272,17 @@ The repository reflects an approach to personal branding where technical communi
 - If a tool looks good but fails under load, edge cases, or bad assumptions, it is not done.
 - Understanding behavior matters more than memorizing features.
 - I like systems you can trust, scripts that earn their keep, and troubleshooting that ends with a root cause.
+- If it works only in theory, it is not ready.
+
+---
+
+## Contact / Connect
+
+- LinkedIn: [linkedin.com/in/yuval-polak](https://linkedin.com/in/yuval-polak)
+- GitHub: [github.com/PolakiniO](https://github.com/PolakiniO)
+- Website: [polakinio.com](https://polakinio.com)
+
+**Open to my next challenge in technical security, TAM, and engineering-oriented roles - feel free to reach out.**
 
 ---
 
