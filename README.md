@@ -91,7 +91,7 @@ The project reflects a shift from using AI as a helper to treating it as an engi
 
 ---
 
-### [HackQuest Academy](https://hackquest-academy.base44.app)
+### [HackQuest Academy](https://hackquest-academy.com/)
 ![HackQuest Academy Logo](sources/7A0FFB7B-B181-4AD4-A66A-6F09379E0D4F.png)
 
 **TL;DR:** Mobile-first offensive security training platform that turns learning into repeatable, interactive, game-like workflows.
