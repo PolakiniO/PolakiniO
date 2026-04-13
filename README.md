@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="sources/E8105C00-F69D-49B4-A844-5F6C8BAAA63F.jpeg" alt="PolakiniO Logo Banner" width="100%" height="260" />
+</p>
+
 ```bash
 [ Polakinio // security terminal ]
 
@@ -16,10 +20,6 @@ Building HackQuest Academy & AI-assisted security workflows
 > status
 Always building. Always breaking. Always learning.
 ```
-
-<p align="center">
-  <img src="sources/E8105C00-F69D-49B4-A844-5F6C8BAAA63F.jpeg" alt="PolakiniO Logo Banner" width="100%" height="260" />
-</p>
 
 # Yuval Polak
 ### Cybersecurity Engineer / Technical Lead
